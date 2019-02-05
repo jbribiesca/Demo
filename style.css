@@ -1,0 +1,12 @@
+* {
+    padding: 2px;
+    line-height: 2;
+}
+.imgfloat {
+    float: left;
+}
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: white
+}
